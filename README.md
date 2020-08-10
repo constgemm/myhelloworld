@@ -1,2 +1,2 @@
-# myhelloworld
-help me understand git using hello world
+# hello git
+a basic guide to using git
